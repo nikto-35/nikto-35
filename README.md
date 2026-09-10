@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nikto — Who I Am
 
-<!--
-**nikto-35/nikto-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dark personal profile page made for GitHub Pages.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — page content and links
+- `style.css` — design
+- `script.js` — interactions
+- `assets/profile.jpg` — profile image
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publish on GitHub Pages
+1. Create a new GitHub repository.
+2. Upload all files and the `assets` folder.
+3. Go to **Settings → Pages**.
+4. Select **Deploy from a branch**.
+5. Choose `main` and `/ (root)`.
+6. Save. GitHub will give you the public website address.
+
+## Change your links
+Open `index.html` and replace the three `href="#"` values with your Discord, YouTube and Instagram links.
